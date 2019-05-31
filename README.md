@@ -1,4 +1,4 @@
-# AnalyticsTakeHomeTest
+# Analytics Take Home Test
 A place to showcase your abilities
 
 Take a look at the trigram kata from Dave Thomas http://codekata.com/kata/kata14-tom-swift-under-the-milkwood/
