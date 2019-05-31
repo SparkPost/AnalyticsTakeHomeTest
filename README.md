@@ -16,3 +16,6 @@ Node.js
 express  
 Typescript (optional)  
 postgres  
+
+
+Expected time: 2 hours  
