@@ -11,8 +11,8 @@ GET /texts -> returns list of texts that have been uploaded
 GET /texts/:id -> returns info about the text  
 GET /texts/:id/generate?maxSize&seedWords -> returns generated text  
 
-Recommended technologies:
-Node.js
-express
-Typescript (optional)
-postgres
+Recommended technologies:  
+Node.js  
+express  
+Typescript (optional)  
+postgres  
