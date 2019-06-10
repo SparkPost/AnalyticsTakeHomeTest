@@ -8,7 +8,7 @@ Take a look at the trigram kata from Dave Thomas http://codekata.com/kata/kata14
 
 Create a service that wraps a solution to the above problem in an HTTP service. Your service should expose a POST endpoint that takes a .txt file. You should be able to list any files that you have uploaded, as well as get information about the file (file size, number of trigrams). You should also be able to generate trigrams from the files.
 
-Example endpoints:
+Example endpoints:  
 POST /upload  
 GET /texts -> returns list of texts that have been uploaded   
 GET /texts/:id -> returns info about the text  
