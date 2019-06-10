@@ -21,4 +21,4 @@ Typescript (optional)
 postgres  
 
 # Submission
-Create a compressed archive file of your project and email it to timothy.ecklund@sparkpost.com
+Create a compressed archive file of your project and email it to timothy.ecklund at sparkpost dot com
