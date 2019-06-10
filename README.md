@@ -1,7 +1,4 @@
 # Analytics Take Home Test
-A place to showcase your abilities
-
-
 
 The purpose of this test is to show off your ability to create an API. There are no 'correct' or 'incorrect' answers, and a complete solution is not expected. Go through the problem and identify any potential issues you see. Set aside 2-3 hours and put together as much of the solution as you can, focusing on the project dev setup (i.e. getting an express server stood up, setting up your DB, how will you accept multipart form uploads, how tests will run, etc.)
 
