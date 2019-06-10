@@ -10,8 +10,8 @@ Create a service that wraps a solution to the above problem in an HTTP service. 
 
 Example endpoints:
 POST /upload  
-GET /texts -> returns list of texts that have been uploaded  
-GET /texts/:id -> returns info about the text
+GET /texts -> returns list of texts that have been uploaded   
+GET /texts/:id -> returns info about the text  
 GET /texts/:id/generate?maxSize&seedWords -> returns generated text  
 
 Recommended technologies:  
